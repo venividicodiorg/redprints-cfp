@@ -1,0 +1,7 @@
+{
+  "healthchecks": {
+    "web": [
+      { "type": "startup", "name": "rails up", "path": "/up", "attempts": 12, "wait": 5 }
+    ]
+  }
+}

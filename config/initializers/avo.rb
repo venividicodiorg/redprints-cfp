@@ -107,7 +107,7 @@ Avo.configure do |config|
 
   ## == Customization ==
   config.click_row_to_view_record = true
-  config.app_name = "Redprints CFP"
+  config.app_name = "Euruko 2027 CFP"
   # config.timezone = "UTC"
   # config.currency = 'USD'
   # config.hide_layout_when_printing = false
